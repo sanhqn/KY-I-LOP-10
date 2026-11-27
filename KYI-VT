@@ -140,7 +140,7 @@
 
   <script>
     // DÁN LINK WEB APP GOOGLE APPS SCRIPT CỦA THẦY VÀO ĐÂY:
-    const SHEET_WEBAPP_URL = "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec";
+    const SHEET_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyo23eTiC0UKiK-vkW0uq-bnnoLhF0HAqTm78csIwm6IyjFGg8twuypJGD4JmW7t0VGvQ/exec";
 
     const phan1Data = [
       {
